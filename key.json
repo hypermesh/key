@@ -1,0 +1,11 @@
+{
+    "version": "6.0",
+    "changelog": "https://github.com/hypermesh/test/edit/main/key.json",
+    
+    "cardealer_license": {
+        "ip": "120.12.12.00",
+        "key": "123213213213213"
+    },
+    
+    "user": {}
+}
