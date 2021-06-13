@@ -1,5 +1,6 @@
 {
-    "version": "6.0",
+    "author" : "vVv"
+    "version": "1.0.0",
     "changelog": "https://github.com/hypermesh/test/edit/main/key.json",
     
     "cardealer_license": {
@@ -7,7 +8,7 @@
         "key": "123213213213213"
     },
     
-    "user1": {1100100},
-    "user2": {10010110},
-    "user3": {11001000}
+    "user1": {"1100100"},
+    "user2": {"10010110"},
+    "user3": {"11001000"}
 }
